@@ -9,6 +9,7 @@ Widget adalah sebuah “perwakilan” dari aplikasi yang memungkinkan pengguna u
 ## Menambah Tanaman
 Klik tanda plus untuk menambahkan tanaman
 ![Screenshot_20200904-184716_MyGarden](https://user-images.githubusercontent.com/60589670/92239912-f4311400-eee5-11ea-9cca-d07cccde77f0.jpg)
-##Tanaman Berhasil Ditambahkan
 ![Screenshot_20200904-184725_MyGarden](https://user-images.githubusercontent.com/60589670/92239922-f72c0480-eee5-11ea-922c-f54085f44a5e.jpg)
-
+## Tampilan Memberikan Air
+Klik icon air untuk memberikan air
+![Screenshot_20200904-184944_MyGarden](https://user-images.githubusercontent.com/60589670/92240139-52f68d80-eee6-11ea-80fc-9542b9a4de27.jpg)
