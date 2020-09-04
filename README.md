@@ -5,6 +5,8 @@ widget, dimana widget tersebut dapat mempermudah pengguna untuk menyiram tanaman
 Widget adalah sebuah “perwakilan” dari aplikasi yang memungkinkan pengguna untuk dapat menggunakan fitur dari aplikasi yang diwakilkan tersebut secara langsung tanpa harus membuka aplikasi “sesungguhnya”. 
 # Sumber
 Apilkasi MyGarden ini, bersumber dari udacity berikut link nya.
+- [x] Pada video tutuorial tersebut terdapat perbedaan versi dengan android studio versi sekarang
+- [x] Ada beberapa skrip yang harus diganti menjadi androidx serta versi grandle yang terbaru
 [Link ke udacity](https://classroom.udacity.com/courses/ud855/lessons/f133dd92-8e3c-40b9-9d9d-545498638459/concepts/98627458-72ac-45a0-94ff-bca60428ccfc)
 # Tampilan Aplikasi
 ## Tampilan Awal
