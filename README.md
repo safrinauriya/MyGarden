@@ -13,3 +13,5 @@ Klik tanda plus untuk menambahkan tanaman
 ## Tampilan Memberikan Air
 Klik icon air untuk memberikan air
 ![Screenshot_20200904-184944_MyGarden](https://user-images.githubusercontent.com/60589670/92240139-52f68d80-eee6-11ea-80fc-9542b9a4de27.jpg)
+## Tampilan Awal Pada Widget
+![Screenshot_20200904-184618_One UI Home](https://user-images.githubusercontent.com/60589670/92240501-ee87fe00-eee6-11ea-885b-3e7cc1288bf0.jpg)
