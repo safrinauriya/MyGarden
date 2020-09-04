@@ -21,3 +21,5 @@ Klik icon air untuk memberikan air
 ![Screenshot_20200904-184618_One UI Home](https://user-images.githubusercontent.com/60589670/92240501-ee87fe00-eee6-11ea-885b-3e7cc1288bf0.jpg)
 ## Tampilan Widget Setelah Tanaman Tumbuh
 ![Screenshot_20200904-184950_One UI Home](https://user-images.githubusercontent.com/60589670/92240650-22fbba00-eee7-11ea-99b3-647043705e84.jpg)
+## Tampilan Jika Widget Diperbesar
+![Screenshot_20200904-211431_One UI Home (1)](https://user-images.githubusercontent.com/60589670/92249439-4aa54f00-eef4-11ea-9469-2f9db832133d.jpg)
